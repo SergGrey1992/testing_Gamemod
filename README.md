@@ -1,36 +1,57 @@
-This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
+### English Version
 
-## Getting Started
+```markdown
+# Post-Battle Statistics
 
-First, run the development server:
+## Introduction
 
-```bash
-npm run dev
-# or
-yarn dev
-# or
-pnpm dev
-# or
-bun dev
-```
+You need to design and implement a functional post-battle screen for a session-based game.
 
-Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
+## Main Task
 
-You can start editing the page by modifying `app/page.tsx`. The page auto-updates as you edit the file.
+- There are two teams, the winning team and the losing team. Each team consists of 50 players.
+- The teams should be organized side by side.
+- Each player has a nickname and scores, and can be in two states: dead or alive.
+- There should be a tooltip with additional player info (total kills and deaths) and a button to send a friend request.
 
-This project uses [`next/font`](https://nextjs.org/docs/basic-features/font-optimization) to automatically optimize and load Inter, a custom Google Font.
+## Additional Task (Optional)
 
-## Learn More
+Implement a dummy backend for the task using any of REST/GraphQL/gRPC.
 
-To learn more about Next.js, take a look at the following resources:
+## Technology Stack
 
-- [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
-- [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
+- Next.js 14
+- Module CSS
+- JavaScript (TypeScript optional)
 
-You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js/) - your feedback and contributions are welcome!
+## Deployment
 
-## Deploy on Vercel
+The project is deployed and available at the following link: [Vercel](*****)
 
-The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
 
-Check out our [Next.js deployment documentation](https://nextjs.org/docs/deployment) for more details.
+# Пост-боевая статистика
+
+## Введение
+
+Необходимо разработать и реализовать функциональный экран пост-битвы для сессионной игры.
+
+## Основное задание
+
+- Есть две команды: команда победителей и команда проигравших. Каждая команда состоит из 50 игроков.
+- Команды должны быть расположены рядом друг с другом. 
+- У каждого игрока есть никнейм и очки, а также он может быть в двух состояниях: мертв или жив. 
+- Должен быть предусмотрен тултип с дополнительной информацией об игроке (общее количество убийств и смертей) и кнопка для отправки запроса в друзья.
+
+## Дополнительное задание (опционально)
+
+Реализуйте фиктивный бэкенд для задания с использованием любого из следующих методов: REST/GraphQL/gRPC.
+
+## Стек технологий
+
+- Next.js 14
+- Module CSS
+- JavaScript (TypeScript опционально)
+
+## Деплой
+
+Проект задеплоен и доступен по следующей ссылке: [Vercel](*****)

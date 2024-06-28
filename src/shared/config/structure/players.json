@@ -1,0 +1,1502 @@
+{
+  "3c3a6e9d-c384-45bc-b463-1e040b29fb22": {
+    "name": "Liam",
+    "hp": 100,
+    "counts": {
+      "kills": 0,
+      "deaths": 0
+    },
+    "sex": "male",
+    "description": "A strong knight",
+    "friendIds": [],
+    "status": "idle",
+    "skin": "stream",
+    "team": "",
+    "points": 4025
+  },
+  "36157c4b-d08a-444e-9828-b82b3f3e98a1": {
+    "name": "Noah",
+    "hp": 100,
+    "counts": {
+      "kills": 0,
+      "deaths": 0
+    },
+    "sex": "female",
+    "description": "A stealthy rogue",
+    "friendIds": [],
+    "status": "idle",
+    "skin": "robbert",
+    "team": "",
+    "points": 7322
+  },
+  "64958849-5e4d-4c19-b4aa-79acdf785386": {
+    "name": "Oliver",
+    "hp": 100,
+    "counts": {
+      "kills": 0,
+      "deaths": 0
+    },
+    "sex": "male",
+    "description": "A stealthy rogue",
+    "friendIds": [],
+    "status": "idle",
+    "skin": "wooder",
+    "team": "",
+    "points": 9208
+  },
+  "bc9e57ff-736f-4fa0-b21b-cf91b61da354": {
+    "name": "Elijah",
+    "hp": 100,
+    "counts": {
+      "kills": 0,
+      "deaths": 0
+    },
+    "sex": "female",
+    "description": "A wise mage",
+    "friendIds": [],
+    "status": "idle",
+    "skin": "robbert",
+    "team": "",
+    "points": 2306
+  },
+  "f622a290-7c93-4db3-9200-d0ebc0a307dc": {
+    "name": "William",
+    "hp": 100,
+    "counts": {
+      "kills": 0,
+      "deaths": 0
+    },
+    "sex": "female",
+    "description": "A strong knight",
+    "friendIds": [],
+    "status": "idle",
+    "skin": "robbert",
+    "team": "",
+    "points": 1988
+  },
+  "b46825af-14e7-4975-b4e1-5b3de64c555e": {
+    "name": "James",
+    "hp": 100,
+    "counts": {
+      "kills": 0,
+      "deaths": 0
+    },
+    "sex": "female",
+    "description": "A strong knight",
+    "friendIds": [],
+    "status": "idle",
+    "skin": "stream",
+    "team": "",
+    "points": 7710
+  },
+  "7bd4e9c6-34d2-42b9-8933-91eb923d6636": {
+    "name": "Benjamin",
+    "hp": 100,
+    "counts": {
+      "kills": 0,
+      "deaths": 0
+    },
+    "sex": "female",
+    "description": "A strong knight",
+    "friendIds": [],
+    "status": "idle",
+    "skin": "wooder",
+    "team": "",
+    "points": 1880
+  },
+  "7d6e33ae-7fac-4a4a-9372-fb826a50f3be": {
+    "name": "Lucas",
+    "hp": 100,
+    "counts": {
+      "kills": 0,
+      "deaths": 0
+    },
+    "sex": "female",
+    "description": "A skilled archer",
+    "friendIds": [],
+    "status": "idle",
+    "skin": "robbert",
+    "team": "",
+    "points": 4370
+  },
+  "2e04e193-432c-4cfa-96e4-823ade42ba91": {
+    "name": "Henry",
+    "hp": 100,
+    "counts": {
+      "kills": 0,
+      "deaths": 0
+    },
+    "sex": "female",
+    "description": "A skilled archer",
+    "friendIds": [],
+    "status": "idle",
+    "skin": "wooder",
+    "team": "",
+    "points": 3245
+  },
+  "4d0f0b04-36c5-430c-87d8-597a9458937b": {
+    "name": "Alexander",
+    "hp": 100,
+    "counts": {
+      "kills": 0,
+      "deaths": 0
+    },
+    "sex": "male",
+    "description": "A wise mage",
+    "friendIds": [],
+    "status": "idle",
+    "skin": "robbert",
+    "team": "",
+    "points": 6880
+  },
+  "19ab9ec8-4e92-44cd-8fba-36b6cbb5a380": {
+    "name": "Mason",
+    "hp": 100,
+    "counts": {
+      "kills": 0,
+      "deaths": 0
+    },
+    "sex": "male",
+    "description": "A skilled archer",
+    "friendIds": [],
+    "status": "idle",
+    "skin": "wooder",
+    "team": "",
+    "points": 4452
+  },
+  "37e37452-2c46-40e0-a7a2-7f8bc78b1d90": {
+    "name": "Michael",
+    "hp": 100,
+    "counts": {
+      "kills": 0,
+      "deaths": 0
+    },
+    "sex": "male",
+    "description": "A wise mage",
+    "friendIds": [],
+    "status": "idle",
+    "skin": "wooder",
+    "team": "",
+    "points": 4895
+  },
+  "d9318287-36ba-4825-84cf-b3db349e3cf5": {
+    "name": "Ethan",
+    "hp": 100,
+    "counts": {
+      "kills": 0,
+      "deaths": 0
+    },
+    "sex": "female",
+    "description": "A brave warrior",
+    "friendIds": [],
+    "status": "idle",
+    "skin": "wooder",
+    "team": "",
+    "points": 2369
+  },
+  "f9e069fe-a9eb-46c0-882d-4c71e1555701": {
+    "name": "Daniel",
+    "hp": 100,
+    "counts": {
+      "kills": 0,
+      "deaths": 0
+    },
+    "sex": "female",
+    "description": "A brave warrior",
+    "friendIds": [],
+    "status": "idle",
+    "skin": "wooder",
+    "team": "",
+    "points": 8795
+  },
+  "aa1b23fc-330e-4bc4-9ebd-390483e975b5": {
+    "name": "Jacob",
+    "hp": 100,
+    "counts": {
+      "kills": 0,
+      "deaths": 0
+    },
+    "sex": "male",
+    "description": "A stealthy rogue",
+    "friendIds": [],
+    "status": "idle",
+    "skin": "stream",
+    "team": "",
+    "points": 6376
+  },
+  "e3b3c009-f76f-4310-a2d0-e79dae0809f1": {
+    "name": "Logan",
+    "hp": 100,
+    "counts": {
+      "kills": 0,
+      "deaths": 0
+    },
+    "sex": "male",
+    "description": "A skilled archer",
+    "friendIds": [],
+    "status": "idle",
+    "skin": "robbert",
+    "team": "",
+    "points": 3975
+  },
+  "6ba94189-4949-4210-a65e-0248510e5cb1": {
+    "name": "Jackson",
+    "hp": 100,
+    "counts": {
+      "kills": 0,
+      "deaths": 0
+    },
+    "sex": "male",
+    "description": "A brave warrior",
+    "friendIds": [],
+    "status": "idle",
+    "skin": "stream",
+    "team": "",
+    "points": 4769
+  },
+  "1a5310d1-3048-4976-bcb9-571f36e91acf": {
+    "name": "Levi",
+    "hp": 100,
+    "counts": {
+      "kills": 0,
+      "deaths": 0
+    },
+    "sex": "male",
+    "description": "A stealthy rogue",
+    "friendIds": [],
+    "status": "idle",
+    "skin": "robbert",
+    "team": "",
+    "points": 8198
+  },
+  "420f2f0f-5f58-46dc-8ce8-61fb19af2f97": {
+    "name": "Sebastian",
+    "hp": 100,
+    "counts": {
+      "kills": 0,
+      "deaths": 0
+    },
+    "sex": "female",
+    "description": "A wise mage",
+    "friendIds": [],
+    "status": "idle",
+    "skin": "stream",
+    "team": "",
+    "points": 6354
+  },
+  "96d6af45-d9e7-4ff1-b1bd-2c231a84f004": {
+    "name": "Mateo",
+    "hp": 100,
+    "counts": {
+      "kills": 0,
+      "deaths": 0
+    },
+    "sex": "female",
+    "description": "A skilled archer",
+    "friendIds": [],
+    "status": "idle",
+    "skin": "stream",
+    "team": "",
+    "points": 4282
+  },
+  "3ca95003-b3c8-4981-9a6f-6b8b8d00b1d9": {
+    "name": "Jack",
+    "hp": 100,
+    "counts": {
+      "kills": 0,
+      "deaths": 0
+    },
+    "sex": "male",
+    "description": "A stealthy rogue",
+    "friendIds": [],
+    "status": "idle",
+    "skin": "stream",
+    "team": "",
+    "points": 1974
+  },
+  "2eb5e6e2-567c-4856-851e-eb32265a8a49": {
+    "name": "Owen",
+    "hp": 100,
+    "counts": {
+      "kills": 0,
+      "deaths": 0
+    },
+    "sex": "female",
+    "description": "A strong knight",
+    "friendIds": [],
+    "status": "idle",
+    "skin": "wooder",
+    "team": "",
+    "points": 2378
+  },
+  "7fb09488-1ec0-4e7f-9713-c140c18ec516": {
+    "name": "Theodore",
+    "hp": 100,
+    "counts": {
+      "kills": 0,
+      "deaths": 0
+    },
+    "sex": "female",
+    "description": "A brave warrior",
+    "friendIds": [],
+    "status": "idle",
+    "skin": "wooder",
+    "team": "",
+    "points": 927
+  },
+  "dbecac46-e83c-48c7-a011-5cdc90a88bad": {
+    "name": "Aiden",
+    "hp": 100,
+    "counts": {
+      "kills": 0,
+      "deaths": 0
+    },
+    "sex": "male",
+    "description": "A brave warrior",
+    "friendIds": [],
+    "status": "idle",
+    "skin": "stream",
+    "team": "",
+    "points": 8181
+  },
+  "413a3fb3-6002-4ae7-9709-5605320e680b": {
+    "name": "Samuel",
+    "hp": 100,
+    "counts": {
+      "kills": 0,
+      "deaths": 0
+    },
+    "sex": "male",
+    "description": "A stealthy rogue",
+    "friendIds": [],
+    "status": "idle",
+    "skin": "stream",
+    "team": "",
+    "points": 2383
+  },
+  "6be27741-2e42-4c4c-a6e7-bb8ddb9f7f3f": {
+    "name": "Joseph",
+    "hp": 100,
+    "counts": {
+      "kills": 0,
+      "deaths": 0
+    },
+    "sex": "male",
+    "description": "A strong knight",
+    "friendIds": [],
+    "status": "idle",
+    "skin": "wooder",
+    "team": "",
+    "points": 6725
+  },
+  "f0048cf8-20d5-40d5-b06e-f84402069fd3": {
+    "name": "John",
+    "hp": 100,
+    "counts": {
+      "kills": 0,
+      "deaths": 0
+    },
+    "sex": "male",
+    "description": "A wise mage",
+    "friendIds": [],
+    "status": "idle",
+    "skin": "wooder",
+    "team": "",
+    "points": 9122
+  },
+  "fdd9854a-02a5-45d9-afca-1ad36e773dc0": {
+    "name": "David",
+    "hp": 100,
+    "counts": {
+      "kills": 0,
+      "deaths": 0
+    },
+    "sex": "female",
+    "description": "A stealthy rogue",
+    "friendIds": [],
+    "status": "idle",
+    "skin": "robbert",
+    "team": "",
+    "points": 9095
+  },
+  "8d7f30f6-251d-4dfd-a1ad-a72e0d9e1ff5": {
+    "name": "Wyatt",
+    "hp": 100,
+    "counts": {
+      "kills": 0,
+      "deaths": 0
+    },
+    "sex": "male",
+    "description": "A wise mage",
+    "friendIds": [],
+    "status": "idle",
+    "skin": "stream",
+    "team": "",
+    "points": 6273
+  },
+  "66453160-bd68-4f4e-8864-90f66fcc91da": {
+    "name": "Matthew",
+    "hp": 100,
+    "counts": {
+      "kills": 0,
+      "deaths": 0
+    },
+    "sex": "male",
+    "description": "A skilled archer",
+    "friendIds": [],
+    "status": "idle",
+    "skin": "robbert",
+    "team": "",
+    "points": 2712
+  },
+  "07dc3cc0-12b7-4063-a293-1caa44eb6aa8": {
+    "name": "Luke",
+    "hp": 100,
+    "counts": {
+      "kills": 0,
+      "deaths": 0
+    },
+    "sex": "male",
+    "description": "A wise mage",
+    "friendIds": [],
+    "status": "idle",
+    "skin": "wooder",
+    "team": "",
+    "points": 2919
+  },
+  "ad8abfee-1789-46fa-a1e3-621e7ac49f70": {
+    "name": "Asher",
+    "hp": 100,
+    "counts": {
+      "kills": 0,
+      "deaths": 0
+    },
+    "sex": "female",
+    "description": "A strong knight",
+    "friendIds": [],
+    "status": "idle",
+    "skin": "stream",
+    "team": "",
+    "points": 2937
+  },
+  "6237126a-6db1-4dc2-9b59-a2b5b9ee11ea": {
+    "name": "Carter",
+    "hp": 100,
+    "counts": {
+      "kills": 0,
+      "deaths": 0
+    },
+    "sex": "male",
+    "description": "A stealthy rogue",
+    "friendIds": [],
+    "status": "idle",
+    "skin": "robbert",
+    "team": "",
+    "points": 8104
+  },
+  "93d3d641-e168-4ca9-b286-c9cc9e38f4cd": {
+    "name": "Julian",
+    "hp": 100,
+    "counts": {
+      "kills": 0,
+      "deaths": 0
+    },
+    "sex": "female",
+    "description": "A wise mage",
+    "friendIds": [],
+    "status": "idle",
+    "skin": "wooder",
+    "team": "",
+    "points": 9742
+  },
+  "26a5a0b5-e89c-4f21-b1f8-aa85585f84d5": {
+    "name": "Grayson",
+    "hp": 100,
+    "counts": {
+      "kills": 0,
+      "deaths": 0
+    },
+    "sex": "male",
+    "description": "A brave warrior",
+    "friendIds": [],
+    "status": "idle",
+    "skin": "robbert",
+    "team": "",
+    "points": 2454
+  },
+  "de7991d3-d6d5-45e0-93d5-0ddb271734f4": {
+    "name": "Leo",
+    "hp": 100,
+    "counts": {
+      "kills": 0,
+      "deaths": 0
+    },
+    "sex": "male",
+    "description": "A stealthy rogue",
+    "friendIds": [],
+    "status": "idle",
+    "skin": "wooder",
+    "team": "",
+    "points": 1740
+  },
+  "9269fab3-c3fd-4603-b175-6d7f8a92356a": {
+    "name": "Jayden",
+    "hp": 100,
+    "counts": {
+      "kills": 0,
+      "deaths": 0
+    },
+    "sex": "male",
+    "description": "A strong knight",
+    "friendIds": [],
+    "status": "idle",
+    "skin": "wooder",
+    "team": "",
+    "points": 3175
+  },
+  "f1da55e2-4d49-49a2-a723-1aca5fbf4376": {
+    "name": "Gabriel",
+    "hp": 100,
+    "counts": {
+      "kills": 0,
+      "deaths": 0
+    },
+    "sex": "female",
+    "description": "A wise mage",
+    "friendIds": [],
+    "status": "idle",
+    "skin": "robbert",
+    "team": "",
+    "points": 9405
+  },
+  "52e1e8a9-501a-4e35-8983-8d2584816117": {
+    "name": "Isaac",
+    "hp": 100,
+    "counts": {
+      "kills": 0,
+      "deaths": 0
+    },
+    "sex": "male",
+    "description": "A wise mage",
+    "friendIds": [],
+    "status": "idle",
+    "skin": "wooder",
+    "team": "",
+    "points": 8925
+  },
+  "32977f03-809e-4b07-84b4-d08ae675f5ca": {
+    "name": "Lincoln",
+    "hp": 100,
+    "counts": {
+      "kills": 0,
+      "deaths": 0
+    },
+    "sex": "female",
+    "description": "A strong knight",
+    "friendIds": [],
+    "status": "idle",
+    "skin": "wooder",
+    "team": "",
+    "points": 1529
+  },
+  "0778b494-7374-4a41-ba8e-eb800bab03ae": {
+    "name": "Anthony",
+    "hp": 100,
+    "counts": {
+      "kills": 0,
+      "deaths": 0
+    },
+    "sex": "female",
+    "description": "A strong knight",
+    "friendIds": [],
+    "status": "idle",
+    "skin": "stream",
+    "team": "",
+    "points": 1364
+  },
+  "8d75e6e1-042a-418f-8949-963c6b23ff6d": {
+    "name": "Hudson",
+    "hp": 100,
+    "counts": {
+      "kills": 0,
+      "deaths": 0
+    },
+    "sex": "female",
+    "description": "A brave warrior",
+    "friendIds": [],
+    "status": "idle",
+    "skin": "stream",
+    "team": "",
+    "points": 9960
+  },
+  "80ac5d06-ead4-4c9b-8748-63ce9b10a486": {
+    "name": "Dylan",
+    "hp": 100,
+    "counts": {
+      "kills": 0,
+      "deaths": 0
+    },
+    "sex": "female",
+    "description": "A strong knight",
+    "friendIds": [],
+    "status": "idle",
+    "skin": "wooder",
+    "team": "",
+    "points": 1591
+  },
+  "e524f63f-95c4-43b2-88eb-e738878d45c3": {
+    "name": "Ezra",
+    "hp": 100,
+    "counts": {
+      "kills": 0,
+      "deaths": 0
+    },
+    "sex": "female",
+    "description": "A brave warrior",
+    "friendIds": [],
+    "status": "idle",
+    "skin": "wooder",
+    "team": "",
+    "points": 5418
+  },
+  "cd66e49c-6418-4350-863e-f4c061a979db": {
+    "name": "Thomas",
+    "hp": 100,
+    "counts": {
+      "kills": 0,
+      "deaths": 0
+    },
+    "sex": "female",
+    "description": "A wise mage",
+    "friendIds": [],
+    "status": "idle",
+    "skin": "wooder",
+    "team": "",
+    "points": 1623
+  },
+  "6376349c-6528-4a5d-809d-5218ff303cba": {
+    "name": "Charles",
+    "hp": 100,
+    "counts": {
+      "kills": 0,
+      "deaths": 0
+    },
+    "sex": "male",
+    "description": "A skilled archer",
+    "friendIds": [],
+    "status": "idle",
+    "skin": "robbert",
+    "team": "",
+    "points": 6445
+  },
+  "f03391c3-c5b0-4da1-ae4f-a925296ff7f6": {
+    "name": "Christopher",
+    "hp": 100,
+    "counts": {
+      "kills": 0,
+      "deaths": 0
+    },
+    "sex": "female",
+    "description": "A strong knight",
+    "friendIds": [],
+    "status": "idle",
+    "skin": "robbert",
+    "team": "",
+    "points": 2206
+  },
+  "3a764004-714e-449e-9595-d640421eb2d2": {
+    "name": "Jaxon",
+    "hp": 100,
+    "counts": {
+      "kills": 0,
+      "deaths": 0
+    },
+    "sex": "male",
+    "description": "A brave warrior",
+    "friendIds": [],
+    "status": "idle",
+    "skin": "stream",
+    "team": "",
+    "points": 7202
+  },
+  "7dffc787-64d8-400f-a55f-0dc361fe025b": {
+    "name": "Maverick",
+    "hp": 100,
+    "counts": {
+      "kills": 0,
+      "deaths": 0
+    },
+    "sex": "male",
+    "description": "A brave warrior",
+    "friendIds": [],
+    "status": "idle",
+    "skin": "robbert",
+    "team": "",
+    "points": 5603
+  },
+  "46388233-0dda-4a74-8d46-1537f2575f70": {
+    "name": "Josiah",
+    "hp": 100,
+    "counts": {
+      "kills": 0,
+      "deaths": 0
+    },
+    "sex": "female",
+    "description": "A wise mage",
+    "friendIds": [],
+    "status": "idle",
+    "skin": "robbert",
+    "team": "",
+    "points": 1699
+  },
+  "136b3e7d-dc1e-41a2-b10e-4658d5aef2f2": {
+    "name": "Isaiah",
+    "hp": 100,
+    "counts": {
+      "kills": 0,
+      "deaths": 0
+    },
+    "sex": "female",
+    "description": "A strong knight",
+    "friendIds": [],
+    "status": "idle",
+    "skin": "wooder",
+    "team": "",
+    "points": 9170
+  },
+  "684d0758-7a3b-4865-a29f-d92a650c1f56": {
+    "name": "Andrew",
+    "hp": 100,
+    "counts": {
+      "kills": 0,
+      "deaths": 0
+    },
+    "sex": "female",
+    "description": "A brave warrior",
+    "friendIds": [],
+    "status": "idle",
+    "skin": "stream",
+    "team": "",
+    "points": 8547
+  },
+  "01531895-5b3c-443e-a8fe-530422676dd5": {
+    "name": "Elias",
+    "hp": 100,
+    "counts": {
+      "kills": 0,
+      "deaths": 0
+    },
+    "sex": "female",
+    "description": "A stealthy rogue",
+    "friendIds": [],
+    "status": "idle",
+    "skin": "stream",
+    "team": "",
+    "points": 8979
+  },
+  "4c90c35c-0e0f-48d5-8515-ac47ce6f9dbe": {
+    "name": "Joshua",
+    "hp": 100,
+    "counts": {
+      "kills": 0,
+      "deaths": 0
+    },
+    "sex": "female",
+    "description": "A stealthy rogue",
+    "friendIds": [],
+    "status": "idle",
+    "skin": "stream",
+    "team": "",
+    "points": 5623
+  },
+  "49f6e6a8-13aa-46f0-bc4e-4c110d733106": {
+    "name": "Nathan",
+    "hp": 100,
+    "counts": {
+      "kills": 0,
+      "deaths": 0
+    },
+    "sex": "male",
+    "description": "A skilled archer",
+    "friendIds": [],
+    "status": "idle",
+    "skin": "robbert",
+    "team": "",
+    "points": 8154
+  },
+  "d640e640-17c2-4eed-8e32-c2ee2c406766": {
+    "name": "Caleb",
+    "hp": 100,
+    "counts": {
+      "kills": 0,
+      "deaths": 0
+    },
+    "sex": "male",
+    "description": "A wise mage",
+    "friendIds": [],
+    "status": "idle",
+    "skin": "robbert",
+    "team": "",
+    "points": 5447
+  },
+  "c36e236d-1c38-456e-a4c6-07b9ef53db7b": {
+    "name": "Ryan",
+    "hp": 100,
+    "counts": {
+      "kills": 0,
+      "deaths": 0
+    },
+    "sex": "female",
+    "description": "A stealthy rogue",
+    "friendIds": [],
+    "status": "idle",
+    "skin": "stream",
+    "team": "",
+    "points": 3074
+  },
+  "a9a43b06-43f3-4215-a633-8914f61ceba1": {
+    "name": "Adrian",
+    "hp": 100,
+    "counts": {
+      "kills": 0,
+      "deaths": 0
+    },
+    "sex": "male",
+    "description": "A stealthy rogue",
+    "friendIds": [],
+    "status": "idle",
+    "skin": "stream",
+    "team": "",
+    "points": 2317
+  },
+  "7339736d-060f-4a72-8e43-11e4a960ad9a": {
+    "name": "Miles",
+    "hp": 100,
+    "counts": {
+      "kills": 0,
+      "deaths": 0
+    },
+    "sex": "female",
+    "description": "A strong knight",
+    "friendIds": [],
+    "status": "idle",
+    "skin": "stream",
+    "team": "",
+    "points": 7696
+  },
+  "5f1e4bb0-4b37-4fc9-951c-852abc633b94": {
+    "name": "Eli",
+    "hp": 100,
+    "counts": {
+      "kills": 0,
+      "deaths": 0
+    },
+    "sex": "male",
+    "description": "A wise mage",
+    "friendIds": [],
+    "status": "idle",
+    "skin": "stream",
+    "team": "",
+    "points": 5957
+  },
+  "0955eb6a-5544-4b07-8e6d-1cf3fce09fdc": {
+    "name": "Nolan",
+    "hp": 100,
+    "counts": {
+      "kills": 0,
+      "deaths": 0
+    },
+    "sex": "male",
+    "description": "A brave warrior",
+    "friendIds": [],
+    "status": "idle",
+    "skin": "stream",
+    "team": "",
+    "points": 8289
+  },
+  "4a29702b-800b-428c-bb7b-adbecd8a9dfb": {
+    "name": "Christian",
+    "hp": 100,
+    "counts": {
+      "kills": 0,
+      "deaths": 0
+    },
+    "sex": "female",
+    "description": "A stealthy rogue",
+    "friendIds": [],
+    "status": "idle",
+    "skin": "robbert",
+    "team": "",
+    "points": 9830
+  },
+  "cf2c5e92-5dc1-4ca7-ad63-0cfbd4359b7f": {
+    "name": "Aaron",
+    "hp": 100,
+    "counts": {
+      "kills": 0,
+      "deaths": 0
+    },
+    "sex": "female",
+    "description": "A brave warrior",
+    "friendIds": [],
+    "status": "idle",
+    "skin": "wooder",
+    "team": "",
+    "points": 6536
+  },
+  "c48e7dc1-cf28-4296-b5a1-5cbba4d12230": {
+    "name": "Cameron",
+    "hp": 100,
+    "counts": {
+      "kills": 0,
+      "deaths": 0
+    },
+    "sex": "female",
+    "description": "A brave warrior",
+    "friendIds": [],
+    "status": "idle",
+    "skin": "wooder",
+    "team": "",
+    "points": 5837
+  },
+  "888fc53b-10a0-4a8f-87d3-07b0864c2f4d": {
+    "name": "Ezekiel",
+    "hp": 100,
+    "counts": {
+      "kills": 0,
+      "deaths": 0
+    },
+    "sex": "female",
+    "description": "A stealthy rogue",
+    "friendIds": [],
+    "status": "idle",
+    "skin": "wooder",
+    "team": "",
+    "points": 2808
+  },
+  "a4379359-ba6b-414a-9fce-1e6a9567a51f": {
+    "name": "Colton",
+    "hp": 100,
+    "counts": {
+      "kills": 0,
+      "deaths": 0
+    },
+    "sex": "male",
+    "description": "A brave warrior",
+    "friendIds": [],
+    "status": "idle",
+    "skin": "robbert",
+    "team": "",
+    "points": 3222
+  },
+  "578adf49-2a51-424a-94ee-55c47a1f8c1a": {
+    "name": "Luca",
+    "hp": 100,
+    "counts": {
+      "kills": 0,
+      "deaths": 0
+    },
+    "sex": "male",
+    "description": "A strong knight",
+    "friendIds": [],
+    "status": "idle",
+    "skin": "stream",
+    "team": "",
+    "points": 3270
+  },
+  "5dac51ba-eaa8-4ecc-a2b0-f6c155ebc169": {
+    "name": "Landon",
+    "hp": 100,
+    "counts": {
+      "kills": 0,
+      "deaths": 0
+    },
+    "sex": "male",
+    "description": "A skilled archer",
+    "friendIds": [],
+    "status": "idle",
+    "skin": "robbert",
+    "team": "",
+    "points": 9973
+  },
+  "1f17e0d0-0dab-4db0-9d5b-1e6e192fbe72": {
+    "name": "Hunter",
+    "hp": 100,
+    "counts": {
+      "kills": 0,
+      "deaths": 0
+    },
+    "sex": "male",
+    "description": "A wise mage",
+    "friendIds": [],
+    "status": "idle",
+    "skin": "stream",
+    "team": "",
+    "points": 4420
+  },
+  "258b84a2-600c-47ad-a9fb-13054842f53f": {
+    "name": "Jonathan",
+    "hp": 100,
+    "counts": {
+      "kills": 0,
+      "deaths": 0
+    },
+    "sex": "male",
+    "description": "A brave warrior",
+    "friendIds": [],
+    "status": "idle",
+    "skin": "wooder",
+    "team": "",
+    "points": 8084
+  },
+  "adfbaa6f-ff2b-452d-b6b5-cafb5d5cb87d": {
+    "name": "Santiago",
+    "hp": 100,
+    "counts": {
+      "kills": 0,
+      "deaths": 0
+    },
+    "sex": "female",
+    "description": "A skilled archer",
+    "friendIds": [],
+    "status": "idle",
+    "skin": "robbert",
+    "team": "",
+    "points": 8114
+  },
+  "bc502d25-c080-4568-944b-a2b9d34454ff": {
+    "name": "Axel",
+    "hp": 100,
+    "counts": {
+      "kills": 0,
+      "deaths": 0
+    },
+    "sex": "male",
+    "description": "A strong knight",
+    "friendIds": [],
+    "status": "idle",
+    "skin": "wooder",
+    "team": "",
+    "points": 9705
+  },
+  "3c0b2d04-ce79-44ed-a835-af87d2b32434": {
+    "name": "Easton",
+    "hp": 100,
+    "counts": {
+      "kills": 0,
+      "deaths": 0
+    },
+    "sex": "female",
+    "description": "A strong knight",
+    "friendIds": [],
+    "status": "idle",
+    "skin": "stream",
+    "team": "",
+    "points": 7755
+  },
+  "8573abd1-3999-4ec8-aaf8-96a653a3f369": {
+    "name": "Cooper",
+    "hp": 100,
+    "counts": {
+      "kills": 0,
+      "deaths": 0
+    },
+    "sex": "female",
+    "description": "A skilled archer",
+    "friendIds": [],
+    "status": "idle",
+    "skin": "stream",
+    "team": "",
+    "points": 6451
+  },
+  "e7ee3f23-5635-46fe-85d1-0b83c532fc94": {
+    "name": "Jeremiah",
+    "hp": 100,
+    "counts": {
+      "kills": 0,
+      "deaths": 0
+    },
+    "sex": "female",
+    "description": "A skilled archer",
+    "friendIds": [],
+    "status": "idle",
+    "skin": "wooder",
+    "team": "",
+    "points": 3207
+  },
+  "8c81e1f8-c97a-4d2f-9064-6a949eadd654": {
+    "name": "Angel",
+    "hp": 100,
+    "counts": {
+      "kills": 0,
+      "deaths": 0
+    },
+    "sex": "male",
+    "description": "A skilled archer",
+    "friendIds": [],
+    "status": "idle",
+    "skin": "robbert",
+    "team": "",
+    "points": 9177
+  },
+  "393dda57-b6b1-455f-8628-7a40139552e9": {
+    "name": "Roman",
+    "hp": 100,
+    "counts": {
+      "kills": 0,
+      "deaths": 0
+    },
+    "sex": "female",
+    "description": "A skilled archer",
+    "friendIds": [],
+    "status": "idle",
+    "skin": "stream",
+    "team": "",
+    "points": 5000
+  },
+  "686101f0-86f3-4f8e-9120-863d7a98e899": {
+    "name": "Connor",
+    "hp": 100,
+    "counts": {
+      "kills": 0,
+      "deaths": 0
+    },
+    "sex": "female",
+    "description": "A stealthy rogue",
+    "friendIds": [],
+    "status": "idle",
+    "skin": "stream",
+    "team": "",
+    "points": 9185
+  },
+  "423864ee-a57b-46a5-b6db-2b6aac5d1e9d": {
+    "name": "Jameson",
+    "hp": 100,
+    "counts": {
+      "kills": 0,
+      "deaths": 0
+    },
+    "sex": "male",
+    "description": "A skilled archer",
+    "friendIds": [],
+    "status": "idle",
+    "skin": "wooder",
+    "team": "",
+    "points": 9345
+  },
+  "6db47fed-a7a7-465d-b8bf-e47462042445": {
+    "name": "Robert",
+    "hp": 100,
+    "counts": {
+      "kills": 0,
+      "deaths": 0
+    },
+    "sex": "male",
+    "description": "A stealthy rogue",
+    "friendIds": [],
+    "status": "idle",
+    "skin": "robbert",
+    "team": "",
+    "points": 6258
+  },
+  "b5f0467c-2aac-4ecb-a15f-3d5a4f63dfe0": {
+    "name": "Greyson",
+    "hp": 100,
+    "counts": {
+      "kills": 0,
+      "deaths": 0
+    },
+    "sex": "female",
+    "description": "A strong knight",
+    "friendIds": [],
+    "status": "idle",
+    "skin": "wooder",
+    "team": "",
+    "points": 4347
+  },
+  "26464dc2-fbb4-4fe4-b85f-15b860bd21c4": {
+    "name": "Jordan",
+    "hp": 100,
+    "counts": {
+      "kills": 0,
+      "deaths": 0
+    },
+    "sex": "female",
+    "description": "A strong knight",
+    "friendIds": [],
+    "status": "idle",
+    "skin": "robbert",
+    "team": "",
+    "points": 3093
+  },
+  "7e0f7c60-e9d0-4f8d-b06a-87f73e655892": {
+    "name": "Ian",
+    "hp": 100,
+    "counts": {
+      "kills": 0,
+      "deaths": 0
+    },
+    "sex": "male",
+    "description": "A strong knight",
+    "friendIds": [],
+    "status": "idle",
+    "skin": "robbert",
+    "team": "",
+    "points": 4653
+  },
+  "3365329d-a4fb-4f73-816f-f8686cfe2ae1": {
+    "name": "Carson",
+    "hp": 100,
+    "counts": {
+      "kills": 0,
+      "deaths": 0
+    },
+    "sex": "female",
+    "description": "A skilled archer",
+    "friendIds": [],
+    "status": "idle",
+    "skin": "robbert",
+    "team": "",
+    "points": 6886
+  },
+  "12fac46e-eeb2-4460-b1ef-9054dc847667": {
+    "name": "Jaxson",
+    "hp": 100,
+    "counts": {
+      "kills": 0,
+      "deaths": 0
+    },
+    "sex": "male",
+    "description": "A strong knight",
+    "friendIds": [],
+    "status": "idle",
+    "skin": "wooder",
+    "team": "",
+    "points": 4588
+  },
+  "5af3b748-e59a-46a2-a46d-3c5c34147192": {
+    "name": "Leonardo",
+    "hp": 100,
+    "counts": {
+      "kills": 0,
+      "deaths": 0
+    },
+    "sex": "female",
+    "description": "A skilled archer",
+    "friendIds": [],
+    "status": "idle",
+    "skin": "wooder",
+    "team": "",
+    "points": 5367
+  },
+  "ada9d789-06bd-4f22-a950-07e59dd5ad81": {
+    "name": "Nicholas",
+    "hp": 100,
+    "counts": {
+      "kills": 0,
+      "deaths": 0
+    },
+    "sex": "female",
+    "description": "A skilled archer",
+    "friendIds": [],
+    "status": "idle",
+    "skin": "stream",
+    "team": "",
+    "points": 4804
+  },
+  "2c83df72-4fbb-4cd9-aa35-8bb9a66f1e00": {
+    "name": "Dominic",
+    "hp": 100,
+    "counts": {
+      "kills": 0,
+      "deaths": 0
+    },
+    "sex": "male",
+    "description": "A stealthy rogue",
+    "friendIds": [],
+    "status": "idle",
+    "skin": "robbert",
+    "team": "",
+    "points": 4284
+  },
+  "582ad53c-e6b5-4637-9b06-2a8df5e1860a": {
+    "name": "Austin",
+    "hp": 100,
+    "counts": {
+      "kills": 0,
+      "deaths": 0
+    },
+    "sex": "male",
+    "description": "A skilled archer",
+    "friendIds": [],
+    "status": "idle",
+    "skin": "stream",
+    "team": "",
+    "points": 9741
+  },
+  "115b95c1-9022-40e8-ad21-6fd879c5b76b": {
+    "name": "Everett",
+    "hp": 100,
+    "counts": {
+      "kills": 0,
+      "deaths": 0
+    },
+    "sex": "female",
+    "description": "A wise mage",
+    "friendIds": [],
+    "status": "idle",
+    "skin": "stream",
+    "team": "",
+    "points": 7489
+  },
+  "df881973-056c-4349-bea7-091a90182e90": {
+    "name": "Brooks",
+    "hp": 100,
+    "counts": {
+      "kills": 0,
+      "deaths": 0
+    },
+    "sex": "male",
+    "description": "A brave warrior",
+    "friendIds": [],
+    "status": "idle",
+    "skin": "stream",
+    "team": "",
+    "points": 2224
+  },
+  "910f2657-b4c0-4c43-8dc3-6e1584d240ce": {
+    "name": "Xavier",
+    "hp": 100,
+    "counts": {
+      "kills": 0,
+      "deaths": 0
+    },
+    "sex": "male",
+    "description": "A brave warrior",
+    "friendIds": [],
+    "status": "idle",
+    "skin": "robbert",
+    "team": "",
+    "points": 3220
+  },
+  "bdad0053-c80a-4ffc-8ba1-5492b8ea68b3": {
+    "name": "Kai",
+    "hp": 100,
+    "counts": {
+      "kills": 0,
+      "deaths": 0
+    },
+    "sex": "female",
+    "description": "A stealthy rogue",
+    "friendIds": [],
+    "status": "idle",
+    "skin": "stream",
+    "team": "",
+    "points": 8105
+  },
+  "276dc939-4372-4cb2-b619-6ad70c464d9d": {
+    "name": "Jose",
+    "hp": 100,
+    "counts": {
+      "kills": 0,
+      "deaths": 0
+    },
+    "sex": "female",
+    "description": "A skilled archer",
+    "friendIds": [],
+    "status": "idle",
+    "skin": "robbert",
+    "team": "",
+    "points": 6351
+  },
+  "57996c53-a898-4fa9-bd7d-1b9136b3102c": {
+    "name": "Parker",
+    "hp": 100,
+    "counts": {
+      "kills": 0,
+      "deaths": 0
+    },
+    "sex": "male",
+    "description": "A brave warrior",
+    "friendIds": [],
+    "status": "idle",
+    "skin": "wooder",
+    "team": "",
+    "points": 8041
+  },
+  "0835a102-2e6e-4033-a50a-89c5a31399f1": {
+    "name": "Adam",
+    "hp": 100,
+    "counts": {
+      "kills": 0,
+      "deaths": 0
+    },
+    "sex": "male",
+    "description": "A brave warrior",
+    "friendIds": [],
+    "status": "idle",
+    "skin": "stream",
+    "team": "",
+    "points": 3053
+  },
+  "537e55df-28e3-430f-98f1-3fcbfb910106": {
+    "name": "Jace",
+    "hp": 100,
+    "counts": {
+      "kills": 0,
+      "deaths": 0
+    },
+    "sex": "male",
+    "description": "A skilled archer",
+    "friendIds": [],
+    "status": "idle",
+    "skin": "stream",
+    "team": "",
+    "points": 8789
+  },
+  "cd324043-ae90-4fe9-87b7-67d90d1eaf1a": {
+    "name": "Wesley",
+    "hp": 100,
+    "counts": {
+      "kills": 0,
+      "deaths": 0
+    },
+    "sex": "male",
+    "description": "A strong knight",
+    "friendIds": [],
+    "status": "idle",
+    "skin": "robbert",
+    "team": "",
+    "points": 8059
+  },
+  "bcc7b4f7-8131-44c6-814f-d21741d6e318": {
+    "name": "Kayden",
+    "hp": 100,
+    "counts": {
+      "kills": 0,
+      "deaths": 0
+    },
+    "sex": "male",
+    "description": "A strong knight",
+    "friendIds": [],
+    "status": "idle",
+    "skin": "wooder",
+    "team": "",
+    "points": 9266
+  },
+  "e72f6e41-694e-4b3a-ad3d-fa3542bb8006": {
+    "name": "Silas",
+    "hp": 100,
+    "counts": {
+      "kills": 0,
+      "deaths": 0
+    },
+    "sex": "female",
+    "description": "A brave warrior",
+    "friendIds": [],
+    "status": "idle",
+    "skin": "wooder",
+    "team": "",
+    "points": 960
+  }
+}

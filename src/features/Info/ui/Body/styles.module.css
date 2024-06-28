@@ -1,0 +1,51 @@
+.content {
+    display: flex;
+    flex-direction: column;
+    background-color: cornsilk;
+    padding: 20px;
+}
+
+.innerBox {
+    position: relative;
+    width: 48px;
+    aspect-ratio: 1;
+}
+
+.full {
+    position: absolute;
+    inset: 0;
+    z-index: 10;
+    width: 48px;
+    aspect-ratio: 1;
+    background-repeat: no-repeat;
+    background-position: 0 0;
+    pointer-events: none;
+}
+
+.robbert_idle {
+    background-image: url('/sprites/robbert/idle.png');
+    animation: spriteIdle 0.5s steps(3) infinite;
+}
+.stream_idle {
+    background-image: url('/sprites/stream/idle.png');
+    animation: spriteIdle 0.5s steps(3) infinite;
+}
+
+.wooder_idle {
+    background-image: url('/sprites/wooder/idle.png');
+    animation: spriteIdle 0.5s steps(3) infinite;
+}
+
+@keyframes spriteIdle {
+    from { background-position: 0 0; }
+    to { background-position: 100% 0; }
+}
+
+.subInfo {
+    font-size: 14px;
+    font-weight: 700;
+}
+
+.sub {
+    font-size: 18px;
+}
