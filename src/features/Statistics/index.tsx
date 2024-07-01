@@ -17,20 +17,20 @@ export const Statistics = ({ groups }: Props) => {
     return (
         <div className={styles.content}>
             <button onClick={toggleOpen}>closed</button>
-            <h3>Не знал как вам понравится вывел весь список</h3>
-            <div className={styles.inner}>
+            <h3>Список участников</h3>
+            <ul className={styles.inner}>
                 {Object.values(groups)
                     .flatMap((i) => i)
                     .map((pl, index) => {
                         return (
-                            <div key={`${pl.name}.${index}`}>
+                            <li key={`${pl.name}.${index}`}>
                                 <div>
                                     <span>{pl.name}</span>
                                 </div>
-                            </div>
+                            </li>
                         )
                     })}
-            </div>
+            </ul>
         </div>
     )
 }

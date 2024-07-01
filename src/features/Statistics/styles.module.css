@@ -5,4 +5,5 @@
 .inner {
     display: grid;
     grid-template-columns: repeat(10, 1fr);
+    padding: 20px;
 }

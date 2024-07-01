@@ -4,8 +4,7 @@ import React from 'react'
 import { useStore } from '@/shared/ui/Modal/lib/state'
 import { Modal } from '@/shared/ui/Modal'
 import { GroupsForTeams } from '@/shared/config/server/groupForTeams'
-import { ifError } from 'node:assert'
-import { Body } from '@/features/Info/ui/Body/index'
+import { Body } from '@/features/Info/ui/Body'
 
 type Props = {
     groups: GroupsForTeams

@@ -2,7 +2,7 @@ import React from 'react'
 
 import styles from './styles.module.css'
 import { WithId } from '@/shared/config/server/groupForTeams'
-import { classNames } from '@/shared/lib/classNames/index'
+import { classNames } from '@/shared/lib/classNames'
 
 interface Props {
     current: WithId
@@ -10,7 +10,7 @@ interface Props {
 
 export const Body = ({ current }: Props) => {
     return (
-        <div className={styles.content}>
+        <div className={styles.content} onClick={(e) => e.stopPropagation()}>
             <div className={styles.innerBox}>
                 <div
                     className={classNames(styles.full, {}, [

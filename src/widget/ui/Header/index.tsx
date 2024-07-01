@@ -6,13 +6,18 @@ import { useHeader } from '@/widget/ui/Header/lib/state'
 
 interface Props {
     runGame: () => void
+    isProgressGame: boolean
 }
 
-export const Header = ({ runGame }: Props) => {
+export const Header = ({ runGame, isProgressGame }: Props) => {
     const toggleOpen = useHeader((state) => state.toggleOpen)
     return (
         <div className={styles.content}>
-            <button className={styles.action} onClick={runGame}>
+            <button
+                className={styles.action}
+                onClick={runGame}
+                disabled={isProgressGame}
+            >
                 play
             </button>
             <button className={styles.action} onClick={toggleOpen}>
