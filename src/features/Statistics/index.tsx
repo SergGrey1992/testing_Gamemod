@@ -17,7 +17,7 @@ export const Statistics = ({ groups }: Props) => {
     return (
         <div className={styles.content}>
             <button onClick={toggleOpen}>closed</button>
-            <h3>Не знал как вам понравится вывел весь списак</h3>
+            <h3>Не знал как вам понравится вывел весь список</h3>
             <div className={styles.inner}>
                 {Object.values(groups)
                     .flatMap((i) => i)
