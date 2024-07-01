@@ -5,11 +5,11 @@ import { GameField } from '@/features/GameField'
 import { Info } from '@/features/Info'
 
 export default async function Home() {
-    const { data } = await getData()
+    // const { data } = await getData()
     return (
         <>
             <main className={styles.main}>
-                <GameField groups={data} />
+                <GameField groups={{ blue: [], red: [] }} />
             </main>
         </>
     )
